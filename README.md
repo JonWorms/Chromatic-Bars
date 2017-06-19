@@ -1,5 +1,4 @@
 # Chromatic Bars
----
-A screen saver for macOS written in Swift
+![preview](https://github.com/JonWorms/Chromatic-Bars/raw/master/preview.png)
 
-Preview:
+A screen saver for macOS written in Swift
